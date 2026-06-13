@@ -20,7 +20,7 @@
 &ensp;
 [![Gmail](https://img.shields.io/badge/Gmail-%230A0A0A?style=for-the-badge&logo=gmail&logoColor=e879f9)](mailto:atchayapandishelvam@gmail.com)
 &ensp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%230A0A0A?style=for-the-badge&logo=tryhackme&logoColor=c084fc)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%230A0A0A?style=for-the-badge&logo=tryhackme&logoColor=c084fc)](https://tryhackme.com/p/atchayapandishelvam)
 &ensp;
 [![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=e879f9)](https://github.com/Atchaya-1307)
 
