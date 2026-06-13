@@ -1,26 +1,28 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d2137,60:0a3d4a,100:0d5c6e&height=210&section=header&text=Atchaya%20Pandishelvam&fontSize=48&fontColor=e0f7f7&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Analyst%20%20%E2%80%A2%20%20OSINT%20Engineer%20%20%E2%80%A2%20%20AI%20%26%20Data%20Science&descAlignY=64&descSize=15&descColor=7ecfcf"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a0533,50:2d0b4e,75:1a0533,100:0d0d0d&height=220&section=header&text=Atchaya%20Pandishelvam&fontSize=52&fontColor=f0c6ff&animation=twinkling&fontAlignY=40&desc=✦%20Cybersecurity%20Analyst%20%20·%20%20OSINT%20Engineer%20%20·%20%20AI%20%26%20Data%20Science%20✦&descAlignY=65&descSize=15&descColor=c084fc"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=🔐+Cybersecurity+Analyst+%7C+AI+%26+Data+Science+Graduate;🕵️+OSINT+%7C+Vulnerability+Assessment+%7C+Threat+Intel;🛡️+Turning+raw+data+into+actionable+defence;🤖+Where+AI+meets+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=E879F9&center=true&vCenter=true&multiline=false&width=800&lines=🔐+Vulnerability+Assessment+%7C+Network+Security+%7C+Risk+Analysis;🕵️+OSINT+%7C+Breach+Detection+%7C+Threat+Intelligence;🤖+AI+%2B+Cybersecurity+%3D+Next-Gen+Defence;🛡️+Transforming+vulnerabilities+into+strategies;🌸+Open+to+SOC+%7C+InfoSec+%7C+OSINT+Roles+Worldwide)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Atchaya-1307&style=flat-square&color=0e7490&label=PROFILE+VIEWS)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atchaya-ai)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/Atchaya-1307)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-0f172a?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:atchayapandishelvam@gmail.com)
-&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0f172a?style=flat-square&logo=tryhackme&logoColor=38bdf8)](https://tryhackme.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Atchaya-1307&style=for-the-badge&color=7c3aed&label=👁+PROFILE+VIEWS)](https://github.com/Atchaya-1307)
+&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/atchaya-ai)
+&ensp;
+[![Gmail](https://img.shields.io/badge/Gmail-%230A0A0A?style=for-the-badge&logo=gmail&logoColor=e879f9)](mailto:atchayapandishelvam@gmail.com)
+&ensp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%230A0A0A?style=for-the-badge&logo=tryhackme&logoColor=c084fc)](https://tryhackme.com)
+&ensp;
+[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=e879f9)](https://github.com/Atchaya-1307)
 
 </div>
 
@@ -28,249 +30,305 @@
 
 ---
 
-## 🧬 About Me
+<br/>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## ✦ &nbsp; About Me
 
 ```python
 #!/usr/bin/env python3
-# ── Atchaya Pandishelvam ──────────────────────
+# ╔══════════════════════════════════════════════════════╗
+# ║           Atchaya Pandishelvam · Security Analyst    ║
+# ╚══════════════════════════════════════════════════════╝
 
-class SecurityAnalyst:
+class Atchaya:
 
-    name     = "Atchaya Pandishelvam"
-    location = "Madurai, Tamil Nadu 🇮🇳"
-    degree   = "B.Tech — AI & Data Science (2026)"
-    cgpa     = 8.2
+    name       = "Atchaya Pandishelvam"
+    location   = "Madurai, Tamil Nadu, India 🇮🇳"
+    degree     = "B.Tech · Artificial Intelligence & Data Science"
+    graduating = 2026
+    cgpa       = 8.2
 
-    focus = [
-        "Vulnerability Assessment",
-        "OSINT & Threat Intelligence",
-        "Network Security Analysis",
-        "AI-powered Security Tools",
+    expertise  = [
+        "Vulnerability Assessment & CVSS Scoring",
+        "OSINT · Breach Detection · Threat Intelligence",
+        "Network Security · Nmap · Nessus · Wireshark",
+        "AI-Powered Security Tooling (Python + APIs)",
     ]
 
-    tools = [
-        "Nmap", "Nessus", "Burp Suite",
-        "Wireshark", "Recon-ng", "Sherlock",
-        "Python", "Docker", "TensorFlow",
-        "LangChain", "FastAPI", "FAISS",
+    stack = {
+        "security"  : ["Nmap","Nessus","Burp Suite","Wireshark","Nikto"],
+        "osint"     : ["Recon-ng","Sherlock","Dmitry","VirusTotal","HIBP"],
+        "ai_ml"     : ["TensorFlow","LangChain","FAISS","OpenAI","RAG"],
+        "devops"    : ["Python","Docker","FastAPI","Git","Pinecone"],
+        "databases" : ["MySQL","Oracle","MongoDB","SQL"],
+    }
+
+    currently_learning = [
+        "Splunk  →  SIEM & Log Analysis",
+        "MITRE ATT&CK  →  TTPs & Threat Mapping",
+        "Kali Linux  →  Penetration Testing & CTFs",
+        "AWS Security  →  Cloud Defence",
     ]
 
-    learning_now = [
-        "Splunk → SIEM & Log Analysis",
-        "MITRE ATT&CK Framework",
-        "Kali Linux → Penetration Testing",
-        "AWS Security Essentials",
-    ]
+    open_to    = ["SOC Analyst", "OSINT Analyst", "InfoSec Analyst",
+                  "Vulnerability Analyst", "Remote & Global Roles"]
 
-    fun_fact = "Won TN Startup Thiruvizha 2024 🏆"
+    fun_fact   = "🏆 Won TN Startup Thiruvizha 2024 — State-level Award"
 
-    def motto(self):
-        return "Transform vulnerabilities into strategy."
+    def motto(self): return "✦ Transform vulnerabilities into strategy. ✦"
 ```
 
-<br clear="right"/>
+<br/>
 
 ---
 
-## ⚡ Tech Arsenal
+<br/>
+
+## ✦ &nbsp; Tech Arsenal
 
 <div align="center">
 
-**── Languages ──**
+**— Languages & Scripting —**
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=38bdf8)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
-![Bash](https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=38bdf8)
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=e879f9)
+![Java](https://img.shields.io/badge/Java-1a0533?style=for-the-badge&logo=openjdk&logoColor=c084fc)
+![Bash](https://img.shields.io/badge/Bash-1a0533?style=for-the-badge&logo=gnubash&logoColor=e879f9)
+![SQL](https://img.shields.io/badge/SQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=c084fc)
 
-**── Security Tools ──**
+**— Security Tools —**
 
-![Nmap](https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&logo=nmap&logoColor=22d3ee)
-![Nessus](https://img.shields.io/badge/Nessus-0f172a?style=for-the-badge&logo=tenable&logoColor=22d3ee)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0f172a?style=for-the-badge&logo=burpsuite&logoColor=22d3ee)
-![Wireshark](https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=22d3ee)
-![Nikto](https://img.shields.io/badge/Nikto-0f172a?style=for-the-badge&logo=linux&logoColor=22d3ee)
+![Nmap](https://img.shields.io/badge/Nmap-120026?style=for-the-badge&logo=nmap&logoColor=f0c6ff)
+![Nessus](https://img.shields.io/badge/Nessus-120026?style=for-the-badge&logo=tenable&logoColor=f0c6ff)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-120026?style=for-the-badge&logo=burpsuite&logoColor=f0c6ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-120026?style=for-the-badge&logo=wireshark&logoColor=f0c6ff)
+![Nikto](https://img.shields.io/badge/Nikto-120026?style=for-the-badge&logo=linux&logoColor=f0c6ff)
 
-**── OSINT & Reconnaissance ──**
+**— OSINT & Reconnaissance —**
 
-![Recon-ng](https://img.shields.io/badge/Recon--ng-0f172a?style=for-the-badge&logo=kalilinux&logoColor=67e8f9)
-![Sherlock](https://img.shields.io/badge/Sherlock-0f172a?style=for-the-badge&logo=python&logoColor=67e8f9)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-0f172a?style=for-the-badge&logo=virustotal&logoColor=67e8f9)
-![Whois](https://img.shields.io/badge/Whois-0f172a?style=for-the-badge&logo=cloudflare&logoColor=67e8f9)
-![HaveIBeenPwned](https://img.shields.io/badge/HaveIBeenPwned-0f172a?style=for-the-badge&logo=haveibeenpwned&logoColor=67e8f9)
-![Dmitry](https://img.shields.io/badge/Dmitry-0f172a?style=for-the-badge&logo=linux&logoColor=67e8f9)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-1a0533?style=for-the-badge&logo=kalilinux&logoColor=e879f9)
+![Sherlock](https://img.shields.io/badge/Sherlock-1a0533?style=for-the-badge&logo=python&logoColor=c084fc)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-1a0533?style=for-the-badge&logo=virustotal&logoColor=e879f9)
+![HaveIBeenPwned](https://img.shields.io/badge/HaveIBeenPwned-1a0533?style=for-the-badge&logo=haveibeenpwned&logoColor=c084fc)
+![Dmitry](https://img.shields.io/badge/Dmitry-1a0533?style=for-the-badge&logo=linux&logoColor=e879f9)
+![Whois](https://img.shields.io/badge/Whois-1a0533?style=for-the-badge&logo=cloudflare&logoColor=c084fc)
 
-**── AI / ML ──**
+**— AI / Machine Learning —**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=38bdf8)
-![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=chainlink&logoColor=38bdf8)
-![FAISS](https://img.shields.io/badge/FAISS-0f172a?style=for-the-badge&logo=meta&logoColor=38bdf8)
-![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8)
-![Roboflow](https://img.shields.io/badge/Roboflow-0f172a?style=for-the-badge&logo=roboflow&logoColor=38bdf8)
-![Pinecone](https://img.shields.io/badge/Pinecone-0f172a?style=for-the-badge&logo=pinecone&logoColor=38bdf8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-120026?style=for-the-badge&logo=tensorflow&logoColor=f0c6ff)
+![LangChain](https://img.shields.io/badge/LangChain-120026?style=for-the-badge&logo=chainlink&logoColor=f0c6ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-120026?style=for-the-badge&logo=openai&logoColor=f0c6ff)
+![FAISS](https://img.shields.io/badge/FAISS-120026?style=for-the-badge&logo=meta&logoColor=f0c6ff)
+![Roboflow](https://img.shields.io/badge/Roboflow-120026?style=for-the-badge&logo=roboflow&logoColor=f0c6ff)
+![Pinecone](https://img.shields.io/badge/Pinecone-120026?style=for-the-badge&logo=pinecone&logoColor=f0c6ff)
 
-**── Cloud & DevOps ──**
+**— Cloud & DevOps —**
 
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=22d3ee)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=22d3ee)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=e879f9)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a0533?style=for-the-badge&logo=fastapi&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=e879f9)
+![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=c084fc)
 
-**── Databases ──**
+**— Databases —**
 
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=67e8f9)
-![Oracle](https://img.shields.io/badge/Oracle-0f172a?style=for-the-badge&logo=oracle&logoColor=67e8f9)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=67e8f9)
+![MySQL](https://img.shields.io/badge/MySQL-120026?style=for-the-badge&logo=mysql&logoColor=f0c6ff)
+![Oracle](https://img.shields.io/badge/Oracle-120026?style=for-the-badge&logo=oracle&logoColor=f0c6ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-120026?style=for-the-badge&logo=mongodb&logoColor=f0c6ff)
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+<br/>
+
+## ✦ &nbsp; GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Atchaya-1307">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Atchaya-1307&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=22d3ee&text_color=cde8f0&border_radius=14"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Atchaya-1307&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=e879f9&icon_color=c084fc&text_color=f0c6ff&ring_color=7c3aed&border_radius=16"/>
 </a>
-&nbsp;
+&ensp;
 <a href="https://github.com/Atchaya-1307">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atchaya-1307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&text_color=cde8f0&langs_count=8&border_radius=14"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atchaya-1307&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=e879f9&text_color=f0c6ff&langs_count=8&border_radius=16"/>
 </a>
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atchaya-1307&theme=tokyonight-duo&hide_border=true&background=0A0F1E&ring=38BDF8&fire=22d3ee&currStreakLabel=38BDF8&sideLabels=67e8f9&dates=8B949E&currStreakNum=cde8f0&sideNums=cde8f0&stroke=0A0F1E&border_radius=14)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Atchaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atchaya-1307&theme=tokyo-night&bg_color=0a0f1e&color=38bdf8&line=22d3ee&point=67e8f9&area=true&hide_border=true&area_color=0d3d4a)](https://github.com/Atchaya-1307)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Atchaya-1307&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/Atchaya-1307)
-
-</div>
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🤖 &nbsp; AIML Intern — Neuronest AI Pvt Ltd &nbsp;|&nbsp; Jun – Jul 2025 &nbsp;|&nbsp; Coimbatore, TN</b></summary>
 <br/>
 
-> `RAG` &nbsp; `LLMs` &nbsp; `NLP` &nbsp; `LangChain` &nbsp; `FAISS` &nbsp; `Pinecone` &nbsp; `Groq API` &nbsp; `OpenAI` &nbsp; `FastAPI` &nbsp; `Docker` &nbsp; `YOLO` &nbsp; `Roboflow`
+<div align="center">
 
-- Built **"Jurish Bot"** — an AI-powered legal assistant using RAG models, NLP, and LLMs for intelligent PDF-to-JSON document querying and retrieval
-- Integrated **YOLO object detection** training with Roboflow data annotation and web scraping pipelines for automated dataset preparation
-- Deployed a production-grade solution leveraging **LangChain + FAISS + Pinecone** vector search on Docker with FastAPI serving
-- Engineered full AI pipeline: data ingestion → embedding → retrieval → OpenAI/Groq API inference
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atchaya-1307&theme=tokyonight-duo&hide_border=true&background=0D0D0D&ring=E879F9&fire=c084fc&currStreakLabel=E879F9&sideLabels=c084fc&dates=a78bfa&currStreakNum=f0c6ff&sideNums=f0c6ff&stroke=0D0D0D&border_radius=16)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ &nbsp; Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Atchaya-1307&theme=tokyo-night&bg_color=0d0d0d&color=e879f9&line=c084fc&point=f0c6ff&area=true&hide_border=true&area_color=2d0b4e)](https://github.com/Atchaya-1307)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ &nbsp; Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Atchaya-1307&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/Atchaya-1307)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ✦ &nbsp; Experience
+
+<details>
+<summary><b>🤖 &nbsp; AIML Intern &nbsp;—&nbsp; Neuronest AI Pvt Ltd &nbsp;|&nbsp; Jun – Jul 2025 &nbsp;|&nbsp; Coimbatore, TN</b></summary>
+<br/>
+
+> `RAG` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `NLP` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `FAISS` &nbsp;·&nbsp; `Pinecone` &nbsp;·&nbsp; `Groq API` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `YOLO` &nbsp;·&nbsp; `Roboflow`
+
+- 🧠 Built **"Jurish Bot"** — AI-powered legal assistant using RAG, NLP & LLMs for intelligent PDF-to-JSON document querying and retrieval
+- 🎯 Integrated **YOLO** object detection training, Roboflow annotation, and web scraping for automated dataset preparation
+- 🚀 Deployed production-grade solution: **LangChain + FAISS + Pinecone** vector search on Docker, served via FastAPI
+- ⚙️ Engineered full pipeline: data ingestion → embedding → retrieval → Groq/OpenAI inference
 
 </details>
 
 <details>
-<summary><b>👑 &nbsp; President — AI Fortress, Tech Meraki 3.0 &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; PSNA College</b></summary>
+<summary><b>👑 &nbsp; President, AI Fortress — Tech Meraki 3.0 &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; PSNA College of Engineering & Technology</b></summary>
 <br/>
 
-> `Leadership` &nbsp; `Community Building` &nbsp; `Event Management` &nbsp; `AI Education`
+> `Leadership` &nbsp;·&nbsp; `Community Building` &nbsp;·&nbsp; `Event Management` &nbsp;·&nbsp; `AI Education`
 
-- Led the departmental AI community of **200+ students**, organising technical workshops and academic events
-- Managed a cross-functional team of student coordinators for smooth event execution
-- Fostered a culture of innovation, collaboration, and continuous learning in AI initiatives
+- 🌟 Led departmental AI community of **200+ students** — workshops, technical events, academic initiatives
+- 🗂️ Managed team of student coordinators; ensured seamless cross-department execution
+- 💡 Fostered culture of innovation, continuous learning, and collaboration in AI-driven projects
 
 </details>
 
+<br/>
+
 ---
 
-## 🚀 Featured Projects
+<br/>
+
+## ✦ &nbsp; Featured Projects
 
 <div align="center">
 
-| 🔐 Project | ⚙️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| [**🕵️ Personal OSINT Exposure Report Generator**](https://github.com/Atchaya-1307) | Python · HIBP · Sherlock · EmailRep · fpdf2 | Breach detection across 300+ platforms · CVSS-aligned risk scoring · Auto PDF reports · ~80% faster analysis |
-| [**🐦 AI Bird Species Identifier & Analyser**](https://github.com/Atchaya-1307) | Python · TensorFlow · CNN · Deep Learning | 500+ image dataset · **92% accuracy** · Published at **IEEE ICICCS 2025** |
-| [**🚁 Drone Water Quality Monitor**](https://github.com/Atchaya-1307) | IoT · Non-contact Sensors · Embedded Systems | Real-time contamination-free analysis · 6-member team · **🏆 Winner — TN Startup Thiruvizha 2024** |
+| &nbsp; | Project | Stack | Highlights |
+|:---:|:---|:---|:---|
+| 🕵️ | [**Personal OSINT Exposure Report Generator**](https://github.com/Atchaya-1307) | Python · HIBP · Sherlock · EmailRep · fpdf2 | 300+ platforms · CVSS risk scoring · Auto PDF reports · ~80% faster analysis |
+| 🐦 | [**AI Bird Species Identifier**](https://github.com/Atchaya-1307) | Python · TensorFlow · CNN · Deep Learning | 500+ images · **92% accuracy** · **IEEE ICICCS 2025** |
+| 🚁 | [**Drone Water Quality Monitor**](https://github.com/Atchaya-1307) | IoT · Non-contact Sensors · Embedded Systems | Real-time analysis · 6-member team · **🏆 TN Startup Thiruvizha 2024 Winner** |
 
 </div>
 
+<br/>
+
 ---
 
-## 🏅 Achievements
+<br/>
+
+## ✦ &nbsp; Achievements
 
 <div align="center">
 
 | &nbsp; | Achievement | Details |
 |:---:|:---|:---|
-| 🏆 | **TN Startup Thiruvizha 2024 — Winner** | Recognised among top startups in Tamil Nadu for Drone-Based Water Quality Monitoring |
-| 📄 | **IEEE ICICCS 2025 — Published & Presented** | AI-Powered Bird Species Identifier presented at IEEE International Conference (Mar 2025) |
-| 👑 | **Community President — AI Fortress** | Led 200+ student AI community at PSNA College of Engineering & Technology (2025) |
-| 🎓 | **Zoho Young Creator Program** | Selected for Zoho's competitive young creator initiative |
+| 🏆 | **TN Startup Thiruvizha 2024 — Winner** | Top startup in Tamil Nadu · Drone-Based Water Quality Monitoring System |
+| 📄 | **IEEE ICICCS 2025 — Published & Presented** | AI-Powered Bird Species Identifier · International Conference, Mar 2025 |
+| 👑 | **Community President — AI Fortress** | Led 200+ student AI community · PSNA College, 2025 |
+| 🎓 | **Zoho Young Creator Program** | Selected for Zoho's competitive creator initiative |
 
 </div>
 
+<br/>
+
 ---
 
-## 🎓 Education
+<br/>
+
+## ✦ &nbsp; Education
 
 <div align="center">
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📊 CGPA |
 |:---|:---|:---:|:---:|
-| B.Tech — Artificial Intelligence & Data Science | PSNA College of Engineering & Technology, Dindigul, TN | 2026 | **8.2** |
+| B.Tech — Artificial Intelligence & Data Science | PSNA College of Engineering & Technology, Dindigul | 2026 | **8.2** |
 
 </div>
 
+<br/>
+
 ---
 
-## 📚 Courses Completed
+<br/>
+
+## ✦ &nbsp; Courses Completed
 
 <div align="center">
 
-| 📘 Course | 🏢 Platform |
-|:---|:---:|
-| CySA+ — Cybersecurity Analyst Training | CompTIA |
-| Machine Learning | Great Learning |
-| Cloud Computing & Hybrid Cloud | Udemy |
-| Data Analytics using Power BI | LetsUpgrade |
-| Zoho Young Creator Program | Zoho |
+| 📘 Course | 🏢 Platform | &nbsp; |
+|:---|:---:|:---:|
+| CySA+ — Cybersecurity Analyst Training | CompTIA | 🔐 |
+| Machine Learning | Great Learning | 🤖 |
+| Cloud Computing & Hybrid Cloud | Udemy | ☁️ |
+| Data Analytics using Power BI | LetsUpgrade | 📊 |
+| Zoho Young Creator Program | Zoho | 🎓 |
 
 </div>
 
----
-
-## 🌱 Currently Learning
-
-```
-🔴  SIEM & Log Analysis     →  Splunk  ·  IBM QRadar  ·  Log correlation
-🔵  MITRE ATT&CK            →  Tactics  ·  Techniques  ·  Procedures (TTPs)
-🟢  Penetration Testing      →  Kali Linux  ·  Metasploit  ·  CTF challenges
-🟡  Cloud Security           →  AWS Security  ·  Azure Defender
-🟣  Governance & Compliance  →  ISO 27001  ·  NIST CSF  ·  SOC 2 basics
-```
+<br/>
 
 ---
+
+<br/>
+
+## ✦ &nbsp; Currently Learning
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🔴  SIEM & Log Analysis   →  Splunk  ·  IBM QRadar  ·  Elastic  ║
+║  🟣  MITRE ATT&CK          →  Tactics · Techniques · Procedures   ║
+║  🔵  Penetration Testing   →  Kali Linux · Metasploit · CTFs      ║
+║  🟡  Cloud Security        →  AWS Security · Azure Defender       ║
+║  🟢  GRC & Compliance      →  ISO 27001 · NIST CSF · SOC 2       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-*`"The quieter you become, the more you can hear — in packets, in logs, in signals."`*
+### ✦ &nbsp; Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=e879f9)](https://www.linkedin.com/in/atchaya-ai)
+&ensp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-1a0533?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:atchayapandishelvam@gmail.com)
 
 <br/>
 
@@ -278,8 +336,16 @@ class SecurityAnalyst:
 
 <br/>
 
-**Made with 🩵 by Atchaya Pandishelvam**
+```
+✦  "The quieter you become, the more you can hear — in packets, in logs, in signals."  ✦
+```
+
+<br/>
+
+*Made with 💜 by Atchaya Pandishelvam*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d5c6e,50:0a3d4a,100:0a0a0a&height=140&section=footer&animation=twinkling"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,70:2d0b4e,100:1a0533&height=150&section=footer&animation=twinkling"/>
